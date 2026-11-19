@@ -1,0 +1,8 @@
+REGISTRO DE USO DE IA — GLOBAL SOLUTION 2026.2
+Ferramenta: ChatGPT.
+
+Uso realizado:
+- Apoio à estruturação do CitizenTech na frente de mobilidade urbana.
+- Apoio à elaboração inicial de documentos municipais simulados e à identificação da armadilha temporal.
+- Apoio à organização do notebook, pipeline RAG/LCEL, ferramentas, interface Gradio, guardrails e documentação.
+
