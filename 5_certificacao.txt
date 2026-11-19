@@ -5,7 +5,7 @@ Turma: CCPK
 Modalidade: INDIVIDUAL
 Integrante 1: Victor Hugo Lavaqui - RM: 573838
 
-Repositório: [INSERIR LINK]
+Repositório: https://github.com/Blair293/GS02_Prompt
 
 Declaramos que os documentos foram elaborados para fins acadêmicos, que os resultados correspondem à execução realizada e que a chave de API não foi incluída nos arquivos entregues.
-Data: [19/11/2026]
+Data: 19/11/2026
